@@ -14,4 +14,20 @@ main {
     justify-content: center;
     align-items: center;
     max-width: 20rem;
+    border: 1px solid lightblue;
+    padding: 2rem;
+    margin-inline:auto;
+    color: azure;
+    border-radius: 10px;
+}
+
+button {
+    padding: 1rem 2rem;
+    background-color: #379777;
+    outline: none;
+    border-radius: 10px;
+    font-size: large;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
 }
