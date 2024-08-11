@@ -6,7 +6,7 @@ body {
 }
 main {
     width: 100%;
-    height: 100vh;
+    height: 80vh;
 }
 .payment {
     display: flex;
@@ -31,3 +31,24 @@ button {
     color: #fff;
     cursor: pointer;
 }
+
+img {
+    border-radius: 10px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: large;
+    font-weight: 600;
+    color: #fff;
+    padding: 1rem 2rem;
+    flex-wrap: wrap;
+}
+
+/* .bank-logo {
+    display: flex;
+    gap: 1rem;
+} */
+
